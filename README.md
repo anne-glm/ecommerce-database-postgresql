@@ -2,7 +2,7 @@
 
 PostgreSQL database for an e-commerce platform.
 
-![Database ERD](ٍERD-diagram.pdf)
+![Database ERD](ٍERD.png)
 
 ## Files
 - **schema.sql** – Creates all tables and constraints
